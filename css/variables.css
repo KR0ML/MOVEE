@@ -1,0 +1,15 @@
+:root {
+  --black: #000000;
+  --grey: #333333;
+  --grey-40: rgba(51, 51, 51, 40%);
+  --red: #FF352B;
+  --orange: #FF772B;
+  --yellow: #FED100;
+  --white: #FFFFFF;
+  --primary-white: #F8FBFF;
+
+  --border: #EBEBEB;
+  --shadow: #00000026;
+
+  --input: #F8F8F8;
+}
